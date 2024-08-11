@@ -1,0 +1,46 @@
+[
+  {
+    "name": "EeveeSpotify",
+    "version": "8.9.64",
+    "versionDate": "2024-08-09",
+    "size": 77441278,
+    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.7/EeveeSpotify-4.7-8.9.64.ipa",
+    "developerName": "Eevee",
+    "localizedDescription": "Spotify v8.9.64 injected with EeveeSpotify",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+    "bundleIdentifier": "com.spotify.client"
+  },
+  {
+    "name": "YTLitePlus",
+    "version": "19.29.1",
+    "versionDate": "2024-07-31",
+    "size": 111020044,
+    "downloadURL": "https://files.catbox.moe/819wt5.ipa",
+    "developerName": "Various Developers",
+    "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app that offers a superior Youtube experience, combining YTLite (by @dayanch96) with numerous other tweaks :\n\n• YTLite\n• YTUHD\n• YouPiP\n• YTABConfig\n• YouMute\n• DontEatMyContent\n• Return YouTube Dislikes\n• iSponsorBlock\n• YouRememberCaption\n• YTNoTracking\n• YTUnShorts\n• YTNoCheckLocalNetwork\n• BigYTMiniPlayer\n• YTSpeed\n• YTHoldForSpeed\n• YTVideoOverlay\n• YouQuality\n• YTNoModernUI\n• OLEDDarkmode\n• OLDDarkmode\n• LowContrastMode\n• YTNoSuggestedVideo\n\nCredit\n\n@Balackburn, @bhackel, @Deci8BelioS, @matt911, @arichornloverALT, @Macleykun, @AlexInABox, @SKEIDs, @VictorxD70, @Glenta, @zSaaiq, @MrAlucardDante, @gototheskinny, @asdfzxcvbn, @dayanch96, @ssuesskind, @Deci8BelioS, @MiRO92, @qnblackcat, @PoomSmart, @level3tjg, @BandarHL, @Galactic-Dev, @julioverne, @hbang, @Lyvendia, @therealFoxster, @ichitaso, @AhmedBafkir, @CokePokes, @ISnackable",
+    "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+    "bundleIdentifier": "com.google.ios.youtube"
+  },
+  {
+    "name": "StravaPremium",
+    "version": "369.0.1",
+    "versionDate": "2024-07-29",
+    "size": 129927811,
+    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-29-2024/StravaPremium-369.0.1.ipa",
+    "developerName": "Dell",
+    "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts—all in one place. A user requested it so here it is.\nLast updated: 07-29-2024\nStatus: ✅ ⭐",
+    "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.strava.stravaride.png",
+    "bundleIdentifier": "com.strava.stravaride"
+  },
+  {
+    "name": "uYouPlus (uYou+)",
+    "version": "19.08.2",
+    "versionDate": "2024-2-27T12:00:00-01:00",
+    "size": 126194273,
+    "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v19.08.2-3.0.3/uYouPlus-19.08.2-3.0.3.ipa",
+    "developerName": "MiRO92 & Qn_",
+    "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+    "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+    "bundleIdentifier": "com.google.ios.youtube"
+  }
+]
